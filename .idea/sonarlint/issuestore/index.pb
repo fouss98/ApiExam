@@ -39,3 +39,10 @@ i
 9src/main/java/com/fouss/api/repository/CategorieRepp.java,9\a\9a1b7b4a63099b846176dd150e3de12145aba249
 b
 2src/main/java/com/fouss/api/repository/CVRepo.java,8\4\84c5b42c1fbfb0b216ef9954a8efbde94c0a7d5d
+b
+2src/main/java/com/fouss/api/service/CvService.java,5\2\525fdf20be1ef1ee6c4e4885d2186dab7d155b6d
+i
+9src/main/java/com/fouss/api/service/CategorieService.java,5\5\55c0024b2064ea61adf85f5f79f79a401827723b
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
